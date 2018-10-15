@@ -8,4 +8,4 @@ Latest:
 //09/16/2018 add addiu  
 //09/18/2018 add j  
 //------------------------------  
-Refer to lab.cpp for newest version  
+Refer to lab0_1.cpp for newest version  
